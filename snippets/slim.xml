@@ -146,7 +146,7 @@
   <project path="packages/apps/SlimWallpapers" name="SlimRoms/packages_apps_SlimWallpapers" />
   <project path="platform_manifest" name="vodveil/platform_manifest" />
   <project path="vendor/slim" name="vodveil/vendor_slim" />
-  <project path="frameworks/slim" name="vodveil/frameworks_slim" />
+  <project path="frameworks/slim" name="SlimRoms/frameworks_slim" />
   <project path="packages/apps/SamsungServiceMode" name="SlimRoms/packages_apps_SamsungServiceMode" />
   
   <!-- Angler device and kernel -->
