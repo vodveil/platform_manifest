@@ -11,7 +11,7 @@ To get started with bui;ding, you'll need to get familiar with
 To initialize your local repository using the Slim7 trees, use this command:
 
 
-	repo init -u git://github.com/vodevil/platform_manifest.git -b ng7.1
+	repo init -u git://github.com/vodveil/platform_manifest.git -b ng7.1
 
 
 
