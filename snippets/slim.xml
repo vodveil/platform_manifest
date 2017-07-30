@@ -148,5 +148,9 @@
   <project path="vendor/slim" name="vodveil/vendor_slim" />
   <project path="frameworks/slim" name="vodveil/frameworks_slim" />
   <project path="packages/apps/SamsungServiceMode" name="SlimRoms/packages_apps_SamsungServiceMode" />
+  
+  <!-- Angler device and kernel>
+  <project path="device_huawei_angler" name="vodveil/device_huawei_angler" />
+  <project path="kernel_huawei_angler" name="vodveil/kernel_huawei_angler" />
 
 </manifest>
