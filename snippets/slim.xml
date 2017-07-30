@@ -2,8 +2,8 @@
 <manifest>
 
   <!-- Aosp Forks -->
-  <project path="art" name="SlimRoms/android_art" />
-  <project path="bionic" name="SlimRoms/android_bionic" />
+  <project path="art" name="vodveil/android_art" />
+  <project path="bionic" name="vodveil/android_bionic" />
   <project path="bootable/recovery" name="SlimRoms/bootable_recovery" />
   <project path="external/aac" name="SlimRoms/android_external_aac" />
   <project path="external/apache-http" name="SlimRoms/android_external_apache-http" />
@@ -20,9 +20,9 @@
   <project path="external/tinycompress" name="SlimRoms/android_external_tinycompress" />
   <project path="external/tinyxml2" name="SlimRoms/android_external_tinyxml2" />
   <project path="external/wpa_supplicant_8" name="SlimRoms/android_external_wpa_supplicant_8" />
-  <project path="frameworks/av" name="SlimRoms/frameworks_av" />
-  <project path="frameworks/base" name="SlimRoms/frameworks_base" />
-  <project path="frameworks/native" name="SlimRoms/frameworks_native" />
+  <project path="frameworks/av" name="vodveil/frameworks_av" />
+  <project path="frameworks/base" name="vodveil/frameworks_base" />
+  <project path="frameworks/native" name="vodveil/frameworks_native" />
   <project path="frameworks/opt/color-picker" name="SlimRoms/frameworks_opt_color-picker" />
   <project path="frameworks/opt/net/ims" name="SlimRoms/frameworks_opt_net_ims" />
   <project path="frameworks/opt/net/wifi" name="SlimRoms/frameworks_opt_net_wifi" />
@@ -144,9 +144,9 @@
   <project path="frameworks/opt/cards" name="SlimRoms/frameworks_opt_cards" />
   <project path="packages/apps/SlimLauncher" name="SlimRoms/packages_apps_SlimLauncher" />
   <project path="packages/apps/SlimWallpapers" name="SlimRoms/packages_apps_SlimWallpapers" />
-  <project path="platform_manifest" name="SlimRoms/platform_manifest" />
-  <project path="vendor/slim" name="SlimRoms/vendor_slim" />
-  <project path="frameworks/slim" name="SlimRoms/frameworks_slim" />
+  <project path="platform_manifest" name="vodveil/platform_manifest" />
+  <project path="vendor/slim" name="vodveil/vendor_slim" />
+  <project path="frameworks/slim" name="vodveil/frameworks_slim" />
   <project path="packages/apps/SamsungServiceMode" name="SlimRoms/packages_apps_SamsungServiceMode" />
 
 </manifest>
