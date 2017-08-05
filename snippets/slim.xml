@@ -151,7 +151,7 @@
   <project path="packages/apps/SamsungServiceMode" name="SlimRoms/packages_apps_SamsungServiceMode" />
   
   <!-- Angler device and kernel -->
-  <project path="device_huawei_angler" name="vodveil/device_huawei_angler" />
-  <project path="kernel_huawei_angler" name="vodveil/kernel_huawei_angler" />
+  <project path="device/huawei/angler" name="vodveil/device_huawei_angler" />
+  <project path="kernel/huawei/angler" name="vodveil/kernel_huawei_angler" />
 
 </manifest>
